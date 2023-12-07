@@ -1,2 +1,2 @@
-# automate_model_evaluation
-automate the process of evaluating and comparison of the various model runs results
+# automate model evaluation
+automate the process of evaluating and comparing the various model run results.
